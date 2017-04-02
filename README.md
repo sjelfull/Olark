@@ -20,7 +20,7 @@ Olark works on Craft 2.4.x and Craft 2.5.x.
 
 ## Configuring Olark
 
-Add your tracking code to the plugin settings. You can get it when entering the inbox for the first time, or from [Settings -> Website Settings -> (select your site) -> Setup instructions](https://app.olark.im/settings/websites/)
+Add your Site ID in the plugin settings. You can get it from the [site install instructions](https://www.olark.com/install)
 
 ## Using Olark
 
