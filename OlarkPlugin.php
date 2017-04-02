@@ -46,7 +46,7 @@ class OlarkPlugin extends BasePlugin
      */
     public function getDescription ()
     {
-        return Craft::t('Integrate Crisp.im with Craft');
+        return Craft::t('Integrate Olark with Craft');
     }
 
     /**
