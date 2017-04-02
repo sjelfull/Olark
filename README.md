@@ -20,7 +20,8 @@ Olark works on Craft 2.4.x and Craft 2.5.x.
 
 ## Configuring Olark
 
-Add your Site ID in the plugin settings. You can get it from the [site install instructions](https://www.olark.com/install)
+[Get an account first with Olark.](http://www.olark.com/special/25091379).
+Then, add your Site ID in the plugin settings. You can get it from the [site install instructions](https://www.olark.com/install)
 
 ## Using Olark
 
