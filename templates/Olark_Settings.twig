@@ -1,0 +1,23 @@
+{#
+/**
+ * Olark plugin for Craft CMS
+ *
+ * Olark Settings.twig
+ *
+ * @author    Superbig
+ * @copyright Copyright (c) 2017 Superbig
+ * @link      https://superbig.co
+ * @package   Olark
+ * @since     1.0.0
+ */
+#}
+
+{% import "_includes/forms" as forms %}
+
+{{ forms.textField({
+    label: 'Site ID',
+    instructions: 'Get your site ID through the [install instructions](https://www.olark.com/install)',
+    id: 'siteId',
+    name: 'siteId',
+    value: settings['siteId']})
+}}
