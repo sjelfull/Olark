@@ -1,12 +1,12 @@
 # Olark plugin for Craft CMS
 
-Integrate Olark with Craft
+Integrate [Olark](http://www.olark.com/special/25091379) with Craft
 
 ![Screenshot](resources/icon.png)
 
 # About Olark
 
-Over 10,000 companies rely on Olark live chat to answer customers immediately on their website. Loved by customer service and sales teams.
+Over 10,000 companies rely on [Olark](http://www.olark.com/special/25091379) live chat to answer customers immediately on their website. Loved by customer service and sales teams.
 
 ## Installation
 
